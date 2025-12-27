@@ -1,0 +1,12 @@
+# Ignore files that shouldn't be deployed
+node_modules/
+.git/
+.env.local
+.env
+*.log
+.DS_Store
+coverage/
+.nyc_output/
+.vscode/
+.idea/
+
